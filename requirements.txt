@@ -1,0 +1,3 @@
+# Local SQLite mode uses only the Python standard library.
+# Install this optional driver when deploying with Neon Postgres:
+psycopg[binary]>=3.2
